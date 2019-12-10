@@ -7,6 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## IMPORTANTE
+
+A fim de facilitar a customização do menu da sidebar, optei por modificar um arquivo na pasta vendor, que deve ser substituído assim que as dependencias forem instaladas, o arquivo encontra-se na pasta raiz deste projeto, "page.blade.php", ele deve ser substituído no diretório vendor\jeroennoten\laravel-adminlte\resources\views
+
+## Referências
+
+Utilizei o template AdminLTE 3, encontrado no repositório: https://github.com/jeroennoten/Laravel-AdminLTE
+
+Os modais utilizados nas tabelas foram encontrados no link a seguir, posteriormente foram modificados: https://getbootstrap.com.br/docs/4.1/components/modal/
+
+Tive algumas orientações do Túlio e Mateus Pereira.
+
+A atividade foi realizada durante um dia inteiro em minha casa, montamos um grupo para realiza-la a fim de obter melhores resultados e aprendizado. O grupo era composto por mim, Gabriel Batista, João Vitor Esteves e Higor Luis.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
