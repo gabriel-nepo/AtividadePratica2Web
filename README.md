@@ -9,6 +9,8 @@
 
 ## IMPORTANTE
 
+As informações do .env estão no arquivo .env.example.
+
 A fim de facilitar a customização do menu da sidebar, optei por modificar um arquivo na pasta vendor, que deve ser substituído assim que as dependencias forem instaladas, o arquivo encontra-se na pasta raiz deste projeto, "page.blade.php", ele deve ser substituído no diretório vendor\jeroennoten\laravel-adminlte\resources\views
 
 ## Referências
